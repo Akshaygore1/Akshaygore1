@@ -5,9 +5,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshaygore1&label=Profile%20views&color=0e75b6&style=flat" alt="akshaygore1" /> </p>
 
 
-- 🌱 I’m currently learning **Next JS**
+- 🌱 I’m currently learning **More of Javascript**
 
-- 💬 Ask me about **React,Javascript**
+- 💬 Ask me about **React,Javascript,Node JS,REST API,GraphQL**
 
 - 📫 How to reach me **akshaygore2301@gmail.com**
 
